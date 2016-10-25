@@ -6,7 +6,11 @@
 //  Copyright © 2016 LoudShout. All rights reserved.
 //
 
+
+
 #import <Foundation/Foundation.h>
+// Sevser class
+
 
 @interface Serverhit : NSObject
 typedef void(^myCompletion)(NSDictionary *dictResponse);
